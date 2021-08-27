@@ -1,9 +1,7 @@
 # guzman-quiz
 
 ## Description 
-1. I attempted to complete the quiz on my own, but I still have lots of confusion.
-2. I looked at outside sources but found myself copying too much of the code. So I am requesting a tutor to help me understand the assignment better. 
-3. Submitting the homework so it won't be marked overdue.
+1. Added the start element and set up the timer. It counts from 60 to zero when clicking begin.
 
 ## Links 
 
